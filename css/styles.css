@@ -18,4 +18,14 @@ body {
 }
 a {
   color: inherit;
+  text-decoration: none;
+}
+.friends.friends__column {
+  display: flex;
+  align-items: center;
+}
+.friends .friend__avatar {
+  margin-right: 15px;
+}
+.friend__content .friend__name {
 }
