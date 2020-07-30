@@ -38,7 +38,14 @@
 }
 
 .friend__content .friend__bottom-text {
-  font-size: 14px;
+  font-size: 16px;
+}
+.friend__content .friend__sent {
+  font-size: 12px;
+  opacity: 0.7;
+  font-weight: 500;
+  align-items: flex-end;
+  color: #208242e3;
 }
 .friend .friend__now-listening {
   border: 1.5px solid #388e56;
